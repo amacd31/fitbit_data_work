@@ -1,0 +1,7 @@
+*.swp
+*DS_Store
+*.pyc
+.coverage
+.ipynb_checkpoints/
+app_config.yaml
+user_auth.yaml
